@@ -1,5 +1,6 @@
 {
   "name": "komunikator-tutorial",
+  "homepage": "https://imię.github.io/nazwa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
