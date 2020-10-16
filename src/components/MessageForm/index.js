@@ -4,9 +4,9 @@ function MessageForm({user, message, handleSubmit, handleContentChange, handleUs
     return(
         <div>
             <form onSubmit={handleSubmit}>
-                <input type="text" name="user" value={user} onChange={handleUserNameChange}/>
+                <input type="text" name="user" value={user} onChange={handleUserNameChange} placeholder="Nick"/>
                 <input type="text" name="content" value={message}
-                onChange={handleContentChange} />
+                onChange={handleContentChange} placeholder="Wiadomość"/>
                 <input type="submit" value="Submit" />
             </form>
         </div>

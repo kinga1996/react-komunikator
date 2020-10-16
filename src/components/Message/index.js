@@ -4,7 +4,15 @@ import "./styl.css";
 
 function convertDate(timestamp) {
   const datetime = new Date(timestamp);
-  return `${datetime.getHours()}:${datetime.getMinutes()}:${datetime.getSeconds()}`;
+
+  let hours = datetime.getHours();
+  let min = datetime.getMinutes();
+  let sec = datetime.getSeconds();
+
+  if (min < 10) {min = "0"+min;}
+  if (sec < 10) {sec = "0"+sec;}
+
+  return (hours+':'+min+':'+sec);
 }
 
 function Message({ message }) {
