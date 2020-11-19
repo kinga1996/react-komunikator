@@ -1,13 +1,13 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBciuiBFpKM4mFAwj3wosTbP1-BFeBC9OQ",
-    authDomain: "komunikator-kini.firebaseapp.com",
-    databaseURL: "https://komunikator-kini.firebaseio.com",
-    projectId: "komunikator-kini",
-    storageBucket: "komunikator-kini.appspot.com",
-    messagingSenderId: "983197373943",
-    appId: "1:983197373943:web:287fb47fd4cfc110ff8af2"
+  apiKey: "AIzaSyDrnNrP9hEhFNtpFokmHimXX38QM1xBCb8",
+  authDomain: "komunkomunikator.firebaseapp.com",
+  databaseURL: "https://komunkomunikator.firebaseio.com",
+  projectId: "komunkomunikator",
+  storageBucket: "komunkomunikator.appspot.com",
+  messagingSenderId: "559928872331",
+  appId: "1:559928872331:web:2e564f692c713794aff38e"
   };
 
   // Initialize Firebase
