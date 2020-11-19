@@ -1,5 +1,5 @@
 # Messenger
-This is a repository that creates github pages. You can find the page code here: https://github.com/kinga1996/react-komunikator-code/
+This is a repository that creates github pages. You can find the page code here: https://github.com/kinga1996/react-messenger-code/
 
 ##### What does it do?
 On this website you can write messages.
