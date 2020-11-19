@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-messeger/static/css/main.7a14f5b6.chunk.css",
+    "main.js": "/react-messeger/static/js/main.2546bb73.chunk.js",
+    "main.js.map": "/react-messeger/static/js/main.2546bb73.chunk.js.map",
+    "runtime-main.js": "/react-messeger/static/js/runtime-main.5853c6c0.js",
+    "runtime-main.js.map": "/react-messeger/static/js/runtime-main.5853c6c0.js.map",
+    "static/js/2.b3d42c46.chunk.js": "/react-messeger/static/js/2.b3d42c46.chunk.js",
+    "static/js/2.b3d42c46.chunk.js.map": "/react-messeger/static/js/2.b3d42c46.chunk.js.map",
+    "index.html": "/react-messeger/index.html",
+    "precache-manifest.11fe3fef79dcb77caf7dca5cb0f639ff.js": "/react-messeger/precache-manifest.11fe3fef79dcb77caf7dca5cb0f639ff.js",
+    "service-worker.js": "/react-messeger/service-worker.js",
+    "static/css/main.7a14f5b6.chunk.css.map": "/react-messeger/static/css/main.7a14f5b6.chunk.css.map",
+    "static/js/2.b3d42c46.chunk.js.LICENSE.txt": "/react-messeger/static/js/2.b3d42c46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5853c6c0.js",
+    "static/js/2.b3d42c46.chunk.js",
+    "static/css/main.7a14f5b6.chunk.css",
+    "static/js/main.2546bb73.chunk.js"
+  ]
+}
