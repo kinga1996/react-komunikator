@@ -1,6 +1,7 @@
 input{
     font-size: 1em;
-    border: 2px darkblue solid;
+    border: 2px #9b3675 solid;
+    background-color: #cee6b4;
 }
 
 #text{

@@ -1,8 +1,12 @@
 .App {
     font-family: sans-serif;
     text-align: center;
+    margin: 5vh 10vw;
+    padding: 2vh 0;
+    background-color: #e8eae6 ;
+    height: 80vh;
   }
 
 body{
-  background-color: rgb(132,195,190	);
+  background-color: #7c9473;
 }
